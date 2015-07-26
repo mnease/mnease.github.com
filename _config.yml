@@ -8,10 +8,10 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Michael Nease
-tagline: Los Angeles Based Creative
-author : Michael Nease
-  name : Michael Nease
+title : "Michael Nease"
+tagline: "Los Angeles Based Creative"
+author : "Michael Nease"
+  name : "Michael Nease"
   email : mike@jome.co
   github : mnease
   twitter : nease
